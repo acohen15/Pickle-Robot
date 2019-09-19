@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Sep 19 10:52:43 2019
+Author: Ariella Cohen
+Date: 09/19/2019
+Project: Pickle Robot Python Challenge
 
-@author: Owner
 """
 
 import unittest
